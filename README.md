@@ -4,11 +4,17 @@
 ## Include the following in this read me
 
 1. Who is this app for?
+   This app is designed for all ages
 1. What does it do, how does it work
+  It allows the user to take a photo and then draw on it. It even allows for a picture of a grey beanie to be added.
 1. Add screenshots of the design view or actual app
-1. Blocks that you showcase your individual skill
-1. The images you created
+   ![image](https://github.com/user-attachments/assets/43626f34-504d-4e44-af37-3063d6a71558)
+![image](https://github.com/user-attachments/assets/04e6cff4-0851-4d6c-8a05-0b3b23ce5ef6)
 
+1. Blocks that you showcase your individual skill
+  I created blocks to allow the thickness of the line to change, the colors to change, to shake to erase, and more.
+1. The images you created
+I've created several images. I've taked photos of myself and accessorized them, I've taken photos of the table and played Hangman with the app, and Aarya drew nice backgrounds, with abstract art such as flowing rainbows and a ladder.
    Add the MIT App Inventor File to the Repository
 
    Add the MIT Build File to the repository
